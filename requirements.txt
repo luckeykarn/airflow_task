@@ -1,0 +1,4 @@
+install mysql-connector-python #for db connection using python
+install tabulate
+install openpyxl
+install python-dotenv
